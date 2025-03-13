@@ -51,11 +51,11 @@ I am Shuvo, a data-enthusiast & a self-taught software engineer and researcher o
 
 
 <div >
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=hr-shuvo&" alt="hr-shuvo" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=hr-shuvo&theme=radical" alt="hr-shuvo" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hr-shuvo&show_icons=true&locale=en&layout=compact" alt="hr-shuvo" />
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hr-shuvo&show_icons=true&locale=en&layout=compact&theme=radical" alt="hr-shuvo" />
 </p>
-<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=hr-shuvo&show_icons=true&locale=en" alt="hr-shuvo" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=hr-shuvo&show_icons=true&locale=en&theme=radical" alt="hr-shuvo" /></p>
 <p style="">
 
 </div>
@@ -64,6 +64,6 @@ I am Shuvo, a data-enthusiast & a self-taught software engineer and researcher o
 
 
 <p>
-<img height="173em" src="https://leetcard.jacoblin.cool/hrshuvo?theme=light&font=Karma&ext=contest"  alt=""/>
+<img height="173em" src="https://leetcard.jacoblin.cool/hrshuvo?theme=light&font=Karma&ext=contest&theme=radical"  alt=""/>
 
 </p>
